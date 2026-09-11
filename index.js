@@ -43,5 +43,3 @@ export function defineSkipprDocs({
     ...rest,
   })
 }
-
-export { default as theme } from './theme.js'
