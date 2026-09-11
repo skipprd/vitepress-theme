@@ -1,5 +1,7 @@
 # @skippr/vitepress-theme
 
+[![CI](https://github.com/skipprd/vitepress-theme/actions/workflows/ci.yml/badge.svg)](https://github.com/skipprd/vitepress-theme/actions/workflows/ci.yml)
+
 Shared VitePress theme for Skippr product docs (`custom.css`, `InstallTabs`, `defineSkipprDocs`).
 
 This package is **source-available** under [PolyForm Shield 1.0.0](./LICENSE), not OSI open source.
